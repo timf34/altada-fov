@@ -1,3 +1,4 @@
+# Google Doc contents
 1.Camera Calibration/ Localisation : Bohs deployment (11th September)
 Overview:
 - Approximate the position of the cameras using pitch markings/ points as constraints.

@@ -7,3 +7,13 @@ Overview:
 - Expertise:	
   - Geometry, Trigonometry, Computer Vision, Software Engineering
 - Notes: The more automated/ automatic this process the better.
+
+# In this Directory 
+- From Bohemians 
+  - Sample photos 
+- From standard public dataset (ISSIA CNR)
+  - Sample photos 
+  - Camera Intrinsics and extrinsics
+  - Pixel-wise locations of pitch markings 
+  - Estimations of where the cameras are located 
+ 

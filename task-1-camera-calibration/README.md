@@ -13,7 +13,7 @@ Overview:
   - Sample photos 
 - From standard public dataset (ISSIA CNR)
   - Sample photos 
-  - Camera Intrinsics and extrinsics
+  - Camera matrix
   - Pixel-wise locations of pitch markings 
   - Estimations of where the cameras are located 
  

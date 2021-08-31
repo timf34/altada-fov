@@ -6,7 +6,7 @@
   
 - We include a Python file with numpy arrays filled out with the calibration imfo mapping pixels to real world coordinates.
   - Note that the arrays for cameras 5 and 6 have considerably more points filled 
-  - We used these for calculating a homography matrix mapping pixels to real world coordinates
+    - We used these for calculating a homography matrix mapping pixels to real world coordinates
 
 
 - This directory also contains a PDF with the calibration data laid out in a table, including: 

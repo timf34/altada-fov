@@ -9,7 +9,6 @@ Overview:
 - Notes: The more automated/ automatic this process the better.
 
 # In this Directory 
-## Probably best to work with the issia-cnr directory for now 
 - From Bohemians 
   - Sample photos 
 - From standard public dataset (ISSIA CNR)
